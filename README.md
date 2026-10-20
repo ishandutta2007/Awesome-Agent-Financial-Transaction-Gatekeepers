@@ -152,6 +152,7 @@ Understanding the core protocols governing autonomous agent finance:
 
 ---
 
+- **[x402 — live implementation: Money Reactor](https://money-reactor.makar52nn2016.workers.dev)** - Production x402 pay-per-call service (Base USDC) that also exposes pay-per-call risk-screening APIs usable as gatekeeping inputs before agent spends: token safety verdicts (honeypot/rugcheck via independent DexScreener pipeline) and GitHub repo trust verdicts, $0.001-$0.05/call, no keys.
 ## 🤝 How to Contribute
 
 Contributions from platform engineers, compliance teams, and open-source fintech builders are warmly encouraged!
